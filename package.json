@@ -1,0 +1,18 @@
+{
+  "name": "sports-scores-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+
+
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1",
+    "dotenv": "^17.3.1",
+    "node-fetch": "^3.3.2",
+    "zod": "^4.3.6"
+  }
+
+}
